@@ -1,0 +1,15 @@
+/Users/nick/Desktop/Project/Anketa/Anketa/bin/Debug/net5.0/Anketa.deps.json
+/Users/nick/Desktop/Project/Anketa/Anketa/bin/Debug/net5.0/Anketa.runtimeconfig.json
+/Users/nick/Desktop/Project/Anketa/Anketa/bin/Debug/net5.0/Anketa.runtimeconfig.dev.json
+/Users/nick/Desktop/Project/Anketa/Anketa/bin/Debug/net5.0/Anketa.dll
+/Users/nick/Desktop/Project/Anketa/Anketa/bin/Debug/net5.0/ref/Anketa.dll
+/Users/nick/Desktop/Project/Anketa/Anketa/bin/Debug/net5.0/Anketa.pdb
+/Users/nick/Desktop/Project/Anketa/Anketa/obj/Debug/net5.0/Anketa.csprojAssemblyReference.cache
+/Users/nick/Desktop/Project/Anketa/Anketa/obj/Debug/net5.0/Anketa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nick/Desktop/Project/Anketa/Anketa/obj/Debug/net5.0/Anketa.AssemblyInfoInputs.cache
+/Users/nick/Desktop/Project/Anketa/Anketa/obj/Debug/net5.0/Anketa.AssemblyInfo.cs
+/Users/nick/Desktop/Project/Anketa/Anketa/obj/Debug/net5.0/Anketa.csproj.CoreCompileInputs.cache
+/Users/nick/Desktop/Project/Anketa/Anketa/obj/Debug/net5.0/Anketa.dll
+/Users/nick/Desktop/Project/Anketa/Anketa/obj/Debug/net5.0/ref/Anketa.dll
+/Users/nick/Desktop/Project/Anketa/Anketa/obj/Debug/net5.0/Anketa.pdb
+/Users/nick/Desktop/Project/Anketa/Anketa/obj/Debug/net5.0/Anketa.genruntimeconfig.cache
