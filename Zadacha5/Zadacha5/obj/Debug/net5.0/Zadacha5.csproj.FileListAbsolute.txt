@@ -1,0 +1,15 @@
+/Users/nick/Projects/Zadacha5/Zadacha5/bin/Debug/net5.0/Zadacha5.deps.json
+/Users/nick/Projects/Zadacha5/Zadacha5/bin/Debug/net5.0/Zadacha5.runtimeconfig.json
+/Users/nick/Projects/Zadacha5/Zadacha5/bin/Debug/net5.0/Zadacha5.runtimeconfig.dev.json
+/Users/nick/Projects/Zadacha5/Zadacha5/bin/Debug/net5.0/Zadacha5.dll
+/Users/nick/Projects/Zadacha5/Zadacha5/bin/Debug/net5.0/ref/Zadacha5.dll
+/Users/nick/Projects/Zadacha5/Zadacha5/bin/Debug/net5.0/Zadacha5.pdb
+/Users/nick/Projects/Zadacha5/Zadacha5/obj/Debug/net5.0/Zadacha5.csprojAssemblyReference.cache
+/Users/nick/Projects/Zadacha5/Zadacha5/obj/Debug/net5.0/Zadacha5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nick/Projects/Zadacha5/Zadacha5/obj/Debug/net5.0/Zadacha5.AssemblyInfoInputs.cache
+/Users/nick/Projects/Zadacha5/Zadacha5/obj/Debug/net5.0/Zadacha5.AssemblyInfo.cs
+/Users/nick/Projects/Zadacha5/Zadacha5/obj/Debug/net5.0/Zadacha5.csproj.CoreCompileInputs.cache
+/Users/nick/Projects/Zadacha5/Zadacha5/obj/Debug/net5.0/Zadacha5.dll
+/Users/nick/Projects/Zadacha5/Zadacha5/obj/Debug/net5.0/ref/Zadacha5.dll
+/Users/nick/Projects/Zadacha5/Zadacha5/obj/Debug/net5.0/Zadacha5.pdb
+/Users/nick/Projects/Zadacha5/Zadacha5/obj/Debug/net5.0/Zadacha5.genruntimeconfig.cache
